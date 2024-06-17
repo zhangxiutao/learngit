@@ -1,0 +1,3 @@
+[submodule "maidou"]
+	path = maidou
+	url = git@github.com:zhangxiutao/maidou.git
